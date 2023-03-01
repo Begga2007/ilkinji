@@ -1,0 +1,20 @@
+.col-4 {
+    flex: 0 0 auto;
+    width: 28.33333333%;
+  }
+
+.lh-base {
+    line-height: 1.2 !important;
+  } 
+
+.mx-5_2 {
+    margin-left: 10rem !important;
+  }
+
+.btn_hover:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+    border-radius: 1px;
+    box-shadow: 0 0 16px 2px orange;
+    cursor: pointer;
+}
